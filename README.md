@@ -52,9 +52,9 @@ visao_computacional/
 
 Os datasets utilizados neste projeto estão disponíveis no Google Drive. Para baixá-los, siga os links abaixo:
 
-- [Dataset de Treino Principal] (https://www.kaggle.com/datasets/zlatan599/fruitquality1)
-- [Dataset de Treino Adicional] (https://www.kaggle.com/datasets/muhammad0subhan/fruit-and-vegetable-disease-healthy-vs-rotten?select=Fruit+And+Vegetable+Diseases+Dataset)
-- [Dataset de Validação]
+- [Dataset de Treino Principal] (https://data.mendeley.com/datasets/xkbjx8959c/2)
+- [Dataset de Treino Adicional] (https://data.mendeley.com/datasets/bdd69gyhv8/1)
+- [Dataset de Validação] (https://www.kaggle.com/datasets/zlatan599/fruitquality1?resource=download)
 
 Após o download, organize os datasets conforme a estrutura abaixo:
 
