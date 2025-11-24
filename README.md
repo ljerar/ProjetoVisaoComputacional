@@ -50,7 +50,7 @@ visao_computacional/
 
 ## Download dos Datasets
 
-Os datasets utilizados neste projeto estão disponíveis no Google Drive. Para baixá-los, siga os links abaixo:
+Os datasets utilizados neste projeto estão disponíveis no Google Drive e Kaggle. Para baixá-los, siga os links abaixo:
 
 - [Dataset de Treino Principal] (https://data.mendeley.com/datasets/xkbjx8959c/2)
 - [Dataset de Treino Adicional] (https://data.mendeley.com/datasets/bdd69gyhv8/1)
@@ -81,3 +81,27 @@ visao_computacional/
 │   ├── rotten_apple/
 │   ├── rotten_banana/
 │   ├── rotten_orange/
+```
+
+---
+
+## Comparação de Modelos
+
+A tabela abaixo apresenta uma comparação detalhada entre os modelos Faster-RCNN, YOLOv8 e YOLOv11 com base em métricas como precisão, revocação, eficiência e generalização:
+
+![Tabela de Comparação de Modelos](images/Tabela.jpeg)
+
+### Descrição da Tabela
+- **mAP@50 e mAP@50-95**: Métricas de precisão média para avaliar a qualidade da detecção.
+- **Precision e Recall**: Indicadores de quão bem os modelos identificam corretamente os defeitos e evitam falsos positivos.
+- **F1-score**: Combinação de precisão e revocação para medir o desempenho geral.
+- **Estabilidade e Overfitting**: Avaliação de oscilações durante o treinamento e diferença entre desempenho em treino e validação.
+- **Eficiência e Tempo de Inferência**: Tempo necessário para processar uma imagem e eficiência geral do modelo.
+- **Tamanho do Modelo**: Espaço ocupado pelo modelo treinado.
+- **Generalização**: Capacidade do modelo de se adaptar a novos dados.
+
+---
+
+## Conclusão
+
+Este projeto demonstra como redes neurais avançadas podem ser aplicadas para resolver problemas reais de inspeção de qualidade em frutas e hortaliças. A comparação entre os modelos YOLOv8, YOLOv11 e Faster-RCNN fornece insights valiosos para escolher o modelo mais adequado dependendo das necessidades específicas de precisão, eficiência e generalização.
