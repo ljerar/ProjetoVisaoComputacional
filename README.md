@@ -44,6 +44,8 @@ visao_computacional/
 │   ├── frcnn_training/         # Resultados do modelo FRCNN
 │   ├── train_fruit_v8n/        # Resultados do YOLOv8
 │   ├── train_fruit_v11n/       # Resultados do YOLOv11
+├── images/
+├── ├── Tabela.png
 ```
 
 --- 
@@ -81,6 +83,8 @@ visao_computacional/
 │   ├── rotten_apple/
 │   ├── rotten_banana/
 │   ├── rotten_orange/
+├── images/
+├── ├── Tabela.png
 ```
 
 ---
