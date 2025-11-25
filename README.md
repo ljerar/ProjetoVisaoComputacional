@@ -89,7 +89,7 @@ visao_computacional/
 
 A tabela abaixo apresenta uma comparação detalhada entre os modelos Faster-RCNN, YOLOv8 e YOLOv11 com base em métricas como precisão, revocação, eficiência e generalização:
 
-![Tabela de Comparação de Modelos](images/Tabela.jpeg)
+![Tabela de Comparação de Modelos](images/Tabela.png)
 
 ### Descrição da Tabela
 - **mAP@50 e mAP@50-95**: Métricas de precisão média para avaliar a qualidade da detecção.
